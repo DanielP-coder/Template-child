@@ -1,0 +1,15 @@
+/*
+Theme Name: Father theme Child
+Theme URI: theme URL
+Author: Author
+Author URI: youremail.com
+Description: Child Theme description
+Template: father-directory-name
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: theme-child
+Tags: education, news, blog, custom-background, custom-logo, custom-header, custom-menu, featured-images, threaded-comments, translation-ready, right-sidebar, left-sidebar, featured-image-header, footer-widgets
+*/
+
+@import url("../father-theme/style.css");
